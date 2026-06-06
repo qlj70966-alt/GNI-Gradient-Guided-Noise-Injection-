@@ -1,4 +1,4 @@
-# GNI-Gradient-Guided-Noise-Injection-
+# GNI-Gradient-Guided-Noise-Injection
 
 GNI (Gradient-Guided Noise Injection) is an adaptive regularization method for fine-tuning pre-trained language models (PLMs). Its core idea is to dynamically adjust the injected noise intensity using real-time gradient information, so that the regularization process aligns with the model's optimization state.
 
